@@ -1,0 +1,18 @@
+﻿  Lexer.cpp
+d:\таифя\lexer\lexer\lexer.cpp(55): warning C4018: <: несоответствие типов со знаком и без знака
+d:\таифя\lexer\lexer\lexer.cpp(65): warning C4018: <: несоответствие типов со знаком и без знака
+d:\таифя\lexer\lexer\lexer.cpp(75): warning C4018: <: несоответствие типов со знаком и без знака
+d:\таифя\lexer\lexer\lexer.cpp(85): warning C4018: <: несоответствие типов со знаком и без знака
+d:\таифя\lexer\lexer\lexer.cpp(95): warning C4018: <: несоответствие типов со знаком и без знака
+d:\таифя\lexer\lexer\lexer.cpp(105): warning C4018: <: несоответствие типов со знаком и без знака
+d:\таифя\lexer\lexer\lexer.cpp(115): warning C4018: <: несоответствие типов со знаком и без знака
+d:\таифя\lexer\lexer\lexer.cpp(125): warning C4018: <: несоответствие типов со знаком и без знака
+d:\таифя\lexer\lexer\lexer.cpp(153): warning C4018: <: несоответствие типов со знаком и без знака
+d:\таифя\lexer\lexer\lexer.cpp(167): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+d:\таифя\lexer\lexer\lexer.cpp(177): warning C4018: <: несоответствие типов со знаком и без знака
+d:\таифя\lexer\lexer\lexer.cpp(211): warning C4018: <: несоответствие типов со знаком и без знака
+d:\таифя\lexer\lexer\lexer.cpp(328): warning C4018: <: несоответствие типов со знаком и без знака
+d:\таифя\lexer\lexer\lexer.cpp(350): warning C4018: <: несоответствие типов со знаком и без знака
+d:\таифя\lexer\lexer\lexer.cpp(378): warning C4018: <: несоответствие типов со знаком и без знака
+d:\таифя\lexer\lexer\lexer.cpp(434): warning C4018: <: несоответствие типов со знаком и без знака
+  Lexer.vcxproj -> D:\ТАиФЯ\Lexer\Debug\Lexer.exe
